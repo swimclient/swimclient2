@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: none;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+}
+
+div {
+  background-color: none;
+}
+
+h1 {
+  font-family: 'Monoton', cursive, serif;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-weight: normal;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem
+  margin: 50px,auto, auto,auto;
+  color: #66BFBF
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+
+
+}
+
+.top-container {
+  background-color: blue;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2rem;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration-line: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 75px;
+}
+
+a{
+  color: #11999E
+
+}
+
+.skills{
+  display: inline;
+  height: 50rem;
+  width: 50rem
+}
